@@ -73,3 +73,10 @@ e-mail: fioger95@live.com
 
 10. All that is left is to compile our program, if you open our program with Qt-Creator, press Ctrl-R
     to run the program.
+    
+## Demo images ##
+<img src=https://github.com/shenghuayou/music-player-QT-CSC22100/blob/master/demo_image/d1.png />
+
+<img src=https://github.com/shenghuayou/music-player-QT-CSC22100/blob/master/demo_image/d2.png />
+
+<img src=https://github.com/shenghuayou/music-player-QT-CSC22100/blob/master/demo_image/d3.png />
